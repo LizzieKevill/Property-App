@@ -20,7 +20,6 @@ A clean, stylish app accessible on a phone that brings UK house listings into on
 
 ## Decisions still needed
 
-- Clarify whether "off road/slightly off road" means set back from a main road, private access, or another preference.
 - Confirm whether one bedroom is sufficient or two is a strict minimum. Proposed inclusive default: one, with an editable minimum.
 - Whether properties can belong to multiple custom folders.
 - Whether radius means straight-line distance or driving distance. Proposed first version: clearly labelled straight-line distance.
@@ -33,7 +32,7 @@ A clean, stylish app accessible on a phone that brings UK house listings into on
 - Preferred locations: Shropshire and Mid Wales. Location and radius must be changeable; do not lock the search to these areas.
 - Property type: detached house.
 - Setting: rural, away from densely built-up town areas.
-- Road position: off or slightly off the road; the intended access/setback preference needs clarification.
+- Road position/access: set back from the main road, down a lane, or reached by a private road or track are all acceptable. No single access type is required.
 - Condition: renovation properties are welcome, not just move-in-ready homes.
 - Potential to build on the land is a consideration. Record planning information and its source where supplied; distinguish confirmed permission, stated potential, and unknown status. Do not infer permission from acreage, rural location, or listing marketing language.
 - Apply saved preferences to newly available listings when authorised listing updates are connected. Alert/notification delivery is not yet agreed.
