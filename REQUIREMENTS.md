@@ -1,0 +1,53 @@
+# UK Property App requirements
+
+## Goal
+
+A clean, stylish app accessible on a phone that brings UK house listings into one place and helps organise a property search.
+
+## Requested features
+
+- Listings from Rightmove and two additional sources to be confirmed: dictated as "land sale" and "open market". Do not assume their identities.
+- Custom folders/categories, with suggested starting folders: Not seen, Seen, Possibilities, and Favourites.
+- A favourite/like toggle available directly on each property card.
+- Share the original listing link through the phone's share sheet, including WhatsApp where available; provide a copy-link fallback.
+- Filters for minimum/maximum price in GBP, land area in acres, bedroom count, bathroom count, and location with a radius in miles.
+- Location examples include Ludlow and Dudley; these are examples, not fixed search defaults.
+- A mobile-first interface with clear cards, easy navigation, and accessible touch controls.
+
+## Decisions still needed
+
+- Exact names/URLs of the other listing websites.
+- Personal use, shared household folders, or separate user accounts.
+- Whether "seen" means viewed online or visited in person. Consider separate statuses for both.
+- Minimum search defaults, including budget, acreage, and location.
+- Whether properties can belong to multiple custom folders.
+- Whether radius means straight-line distance or driving distance. Proposed first version: clearly labelled straight-line distance.
+
+## Listing integration dependency
+
+Automatic combined search requires an authorised source of listing data. Do not promise that public listing pages can simply be imported automatically.
+
+Rightmove's terms restrict scraping and displaying their images/assets in another app without prior written consent. Their datafeed documentation must not be treated as proof of access to a consumer listing search API.
+
+Source reference: https://www.rightmove.co.uk/c/terms-of-use/
+
+An initial saved-property organiser could accept original listing links plus user-entered details while authorised feed options are investigated. This is a proposed staged approach, not a substitute for the requested combined listings feature.
+
+GitHub Pages will host the frontend. Authorised integrations requiring credentials and cross-device saved data may require a separate backend. Private folder data must not be stored in the public repository.
+
+## Suggested additions for consideration
+
+- Notes and viewing dates on each saved property.
+- Duplicate detection to identify the same home across multiple websites.
+- Separate online review and in-person viewing status.
+- Saved searches to avoid repeatedly entering filters.
+- Backup/export of saved properties.
+- Explicit "Not stated" values for missing acreage or bathroom information; never treat missing data as zero.
+
+## Proposed implementation stages
+
+1. Complete GitHub publishing and verify the Pages URL.
+2. Agree source websites and data access approach.
+3. Build mobile property cards, folders, favourites, filters, and sharing using clearly labelled sample data.
+4. Add persistent saved properties using the agreed personal/shared account model.
+5. Connect authorised listing data and verify duplicate handling and missing fields.

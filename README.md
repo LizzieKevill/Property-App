@@ -4,7 +4,7 @@ A mobile-friendly web app for exploring UK house listings.
 
 ## Project status
 
-Repository and hosting foundation. Listing sources, filters, and app features will be agreed next.
+Repository and hosting foundation. Requested features and open decisions are recorded in [REQUIREMENTS.md](REQUIREMENTS.md).
 
 ## Hosting
 
