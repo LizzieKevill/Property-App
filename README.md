@@ -2,6 +2,8 @@
 
 A mobile-friendly web app for exploring UK house listings.
 
+Property cards open a detail view with the original listing's available photo gallery, thumbnails and source links. Photo URLs refresh through the hourly workflow; images remain hosted by their listing websites.
+
 ## Project status
 
 Repository and hosting foundation. Requested features and open decisions are recorded in [REQUIREMENTS.md](REQUIREMENTS.md).

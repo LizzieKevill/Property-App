@@ -23,7 +23,7 @@ jobs:
         with:
           node-version: '22'
       - name: Validate discovery and merging
-        run: node tests/discovery.test.mjs
+        run: node --test tests/discovery.test.mjs tests/photos.test.mjs
       - name: Search websites through Brave
         env:
           BRAVE_SEARCH_API_KEY: ${{ secrets.BRAVE_SEARCH_API_KEY }}

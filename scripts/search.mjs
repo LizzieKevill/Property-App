@@ -1,5 +1,6 @@
 import {readFile,writeFile,rename} from 'node:fs/promises';
 import {updateCatalogue} from './discovery.mjs';
+import {enrichPhotos} from './photos.mjs';
 const key=process.env.BRAVE_SEARCH_API_KEY;if(!key){console.error('BRAVE_SEARCH_API_KEY is not configured. Existing listings are unchanged.');process.exit(1);}
 const config=JSON.parse(await readFile('scripts/search-config.json','utf8'));
 const catalogue=JSON.parse(await readFile('site/listings.json','utf8'));
@@ -14,6 +15,7 @@ try{
   await new Promise(resolve=>setTimeout(resolve,1100));
  }
  const updated=updateCatalogue(catalogue,results,config,new Date().toISOString());
+ await enrichPhotos(updated);
  await writeFile('site/listings.json.tmp',JSON.stringify(updated,null,2)+'\n');await rename('site/listings.json.tmp','site/listings.json');
  console.log(`${results.length} search results examined. Catalogue contains ${updated.properties.length} listings.`);
 }catch(error){console.error(error.message);process.exit(1);}

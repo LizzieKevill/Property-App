@@ -16,7 +16,11 @@ The default configuration runs 12 API requests per search, about 288 requests pe
 
 ## What happens
 
-The job searches Rightmove, OnTheMarket and LandSale through Brave's search index. It does not crawl listing pages or copy property photos. It extracts numeric facts from the returned text and requires an unambiguous price at or below £500,000, at least 2 acres, at least 1 bedroom, a detached title, a rural description, and a supported area. Results that omit these details or contain contradictory figures are skipped.
+The job searches Rightmove, OnTheMarket and LandSale through Brave's search index. It extracts numeric facts from the returned text and requires an unambiguous price at or below £500,000, at least 2 acres, at least 1 bedroom, a detached title, a rural description, and a supported area. Results that omit these details or contain contradictory figures are skipped.
+
+For known and newly discovered listings, the job reads public gallery metadata from the original listing page. It saves image URLs and short photo captions, without downloading or rehosting the images. Galleries refresh at most once per day after a successful collection. Failed gallery requests retain the previous photos and do not fail the search. When a primary website does not publish accessible gallery metadata, the job tries the property's other known source links. It does not bypass sign-in, access challenges, or blocked requests. Unsupported or unavailable galleries have an original-listing link in the app.
+
+The photo and title buttons open a property detail dialog with all available extracted gallery photos, thumbnail selection, previous/next controls, and source attribution. The original portal may have additional media, including videos or floorplans, which remain accessible via its listing link. Image links can expire or be blocked by their host. Run `node scripts/update-photos.mjs --force` to refresh gallery links separately from Brave discovery.
 
 Automatic matches are labelled as search-index results. Search indexes can lag behind price or availability changes; check original links. This is discovery, not a complete or authoritative live property feed. Access arrangements and permission to build are not inferred. Known sold/under-offer results are not added as new matches; a missing search result does not mark an existing listing sold or remove it.
 
