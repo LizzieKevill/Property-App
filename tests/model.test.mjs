@@ -1,0 +1,16 @@
+import assert from 'node:assert/strict';
+import {defaults,samples,matches,distance,safeUrl,sourceFor} from '../site/model.mjs';
+assert.equal(samples.filter(p=>matches(p,defaults)).length,3);
+assert.equal(samples.filter(p=>matches(p,{...defaults,overBudget:true})).length,4);
+assert.equal(matches({...samples[0],acres:null},defaults),false);
+assert.equal(matches({...samples[0],acres:null},{...defaults,unknown:true}),true);
+assert.equal(matches(samples[0],{...defaults,location:'Ludlow',radius:30}),true);
+assert.equal(matches(samples[1],{...defaults,location:'Ludlow',radius:10}),false);
+assert.equal(matches(samples[0],{...defaults,location:'Unrecognised town',radius:30}),false);
+assert.equal(matches(samples[0],{...defaults,renovation:false}),false);
+assert.equal(matches(samples[0],{...defaults,baths:2}),false);
+assert.equal(distance([52,-2],[52,-2]),0);
+assert.equal(safeUrl('javascript:alert(1)'),null);
+assert.equal(sourceFor('https://www.onthemarket.com/details/123/'),'OnTheMarket');
+assert.equal(sourceFor('https://rightmove.co.uk.evil.test/'),'Other');
+console.log('13 model assertions passed.');

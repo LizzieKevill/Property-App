@@ -23,10 +23,21 @@ GitHub Pages hosts the web interface. Any future listing integration that needs 
 - [ ] Publish repository to GitHub
 - [ ] Enable GitHub Pages and verify the live URL
 - [ ] Agree listing sources and app requirements
-- [ ] Build the first property browsing experience
+- [x] Build the first property browsing experience with labelled sample data
+- [ ] Connect authorised live listing data
 
 ## Working locally
 
-Open `site/index.html` in a browser to view the holding page. No dependencies or build tools are required yet.
+Serve the app with `node preview.mjs`, then open `http://127.0.0.1:4173`. It uses JavaScript modules, so opening the HTML directly from the filesystem is not supported. No dependencies or build tools are required.
+
+Run `node tests/model.test.mjs` and `node tests/app.test.mjs` for the filter and interaction checks.
+
+## First version
+
+Field & Home includes editable saved filters, seen/decision tracking, custom folders, favourites, manual listing entry, original-link sharing, notes, manual price observations, and backup/restore. Listings supplied with the app are fictional and labelled. Listing images are decorative illustrations, not property photographs.
+
+Properties and filters are stored in this browser's local storage, not synced across devices. A backup can be exported and restored. Price and availability updates are manual until authorised feeds are connected.
+
+Location filters support area-name matching. Radius searches use straight-line miles from Ludlow, Shrewsbury, Dudley, Llandrindod Wells, or custom latitude/longitude. Properties without coordinates are excluded from radius results unless missing details are explicitly included. A map/address lookup is not connected yet.
 
 Make focused commits describing each change. Update this checklist as milestones are completed.
