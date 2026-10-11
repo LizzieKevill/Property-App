@@ -1,0 +1,7 @@
+{
+  "maxPrice": 500000,
+  "minAcres": 2,
+  "minBeds": 1,
+  "regions": ["Shropshire", "Powys", "Ceredigion", "Mid Wales"],
+  "domains": ["rightmove.co.uk", "onthemarket.com", "landsale.co.uk"]
+}

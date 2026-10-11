@@ -36,6 +36,7 @@ A clean, stylish app accessible on a phone that brings UK house listings into on
 - Condition: renovation properties are welcome, not just move-in-ready homes.
 - Potential to build on the land is a consideration. Record planning information and its source where supplied; distinguish confirmed permission, stated potential, and unknown status. Do not infer permission from acreage, rural location, or listing marketing language.
 - Apply saved preferences to newly available listings when authorised listing updates are connected. Alert/notification delivery is not yet agreed.
+- Automatically discover listings about hourly, plus a refresh control; merge identifiable duplicates across source websites while preserving personal notes, folders and decisions. Brave Search API is the user's approved discovery provider; activation requires a GitHub repository secret.
 - Support structured filters for numeric details and property type; rural setting, road position, and building potential may need explicit unknown states or manual review when source data is incomplete.
 
 ## Listing integration dependency

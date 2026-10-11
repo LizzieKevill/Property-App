@@ -1,0 +1,186 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-11",
+  "lastSearchAt": null,
+  "searchStatus": "Awaiting Brave API key",
+  "properties": [
+    {
+      "id": "real-hafodty",
+      "title": "Hafodty farmhouse",
+      "area": "Maengwynedd, Llanrhaeadr-ym-Mochnant",
+      "region": "Mid Wales",
+      "price": 400000,
+      "acres": 2.79,
+      "beds": 4,
+      "baths": 2,
+      "type": "Detached",
+      "setting": "Rural",
+      "condition": "",
+      "url": "https://www.onthemarket.com/details/19731924/",
+      "source": "OnTheMarket",
+      "access": "Elevated rural position; road access needs confirmation",
+      "planning": "Agent listing reports permission to convert the barn into a two-bedroom home. Permission reference and current validity not independently checked.",
+      "cautions": "8.34 acres advertised in total, but 5.55 acres are subject to an Agricultural Holdings Act tenancy. The filter uses the stated 2.79 acres not subject to that tenancy.",
+      "summary": "Stone farmhouse with barn, woodland, gardens and a pond in the Berwyn uplands.",
+      "observedAt": "2026-10-11",
+      "availability": "Advertised for sale — confirm with agent",
+      "checked": "2026-10-11",
+      "sample": false,
+      "seen": false,
+      "decision": "",
+      "notes": "",
+      "folders": [],
+      "history": [
+        {
+          "date": "2026-10-11",
+          "price": 400000
+        }
+      ],
+      "created": 1791712800001
+    },
+    {
+      "id": "real-gamlyn",
+      "title": "Gamlyn Cottage",
+      "area": "Aberffrwd, near Aberystwyth",
+      "region": "Mid Wales",
+      "price": 400000,
+      "priceQualifier": "Offers over",
+      "acres": 5.5,
+      "beds": 3,
+      "baths": 1,
+      "type": "Detached",
+      "setting": "Rural",
+      "condition": "",
+      "url": "https://www.onthemarket.com/details/17490284/",
+      "source": "OnTheMarket",
+      "access": "Parking and gated paddock access; road setback needs confirmation",
+      "planning": "No building permission confirmed in the listing details reviewed.",
+      "cautions": "Offers over £400,000, not a fixed purchase price. Land borders the River Rheidol; check the exact road position and land layout.",
+      "summary": "Detached cottage with gardens, paddocks, garage and other outbuildings in the Rheidol valley.",
+      "observedAt": "2026-10-11",
+      "availability": "Advertised for sale — confirm with agent",
+      "checked": "2026-10-11",
+      "sample": false,
+      "seen": false,
+      "decision": "",
+      "notes": "",
+      "folders": [],
+      "history": [
+        {
+          "date": "2026-10-11",
+          "price": 400000
+        }
+      ],
+      "created": 1791712800002
+    },
+    {
+      "id": "real-lower-stocks",
+      "title": "Lower Stocks Farm",
+      "area": "Coptiviney, near Ellesmere",
+      "region": "Shropshire",
+      "price": 500000,
+      "acres": 3.16,
+      "beds": 4,
+      "baths": null,
+      "type": "Detached",
+      "setting": "Rural",
+      "condition": "Renovation",
+      "url": "https://www.onthemarket.com/details/20404516/",
+      "source": "OnTheMarket",
+      "access": "Shared farm drive/track with retained agricultural rights of way",
+      "planning": "Listing mentions potential barn conversions subject to consent. No permission for new dwellings independently confirmed.",
+      "cautions": "Major reconstruction project: farmhouse stripped to its timber frame. Agent says it may be unmortgageable and suited to cash buyers. Advertised bedrooms describe the intended house, not finished accommodation.",
+      "summary": "Farmhouse restoration opportunity with agricultural buildings and open countryside views.",
+      "observedAt": "2026-10-11",
+      "availability": "Advertised for sale — confirm with agent",
+      "checked": "2026-10-11",
+      "sample": false,
+      "seen": false,
+      "decision": "",
+      "notes": "",
+      "folders": [],
+      "history": [
+        {
+          "date": "2026-10-11",
+          "price": 500000
+        }
+      ],
+      "created": 1791712800003
+    },
+    {
+      "id": "real-ffos-ddu",
+      "title": "Ffos Ddu cottage",
+      "area": "Carno, Caersws",
+      "region": "Mid Wales",
+      "price": 495000,
+      "priceQualifier": "Guide price",
+      "acres": 3.83,
+      "beds": 3,
+      "baths": 2,
+      "type": "Detached",
+      "setting": "Rural",
+      "condition": "",
+      "url": "https://www.rightmove.co.uk/properties/161591489",
+      "source": "Rightmove",
+      "links": [
+        {
+          "source": "LandSale",
+          "url": "https://www.landsale.co.uk/properties/97850"
+        }
+      ],
+      "access": "Private road from a forestry road",
+      "planning": "Attached barn described as having conversion potential. Building permission not confirmed.",
+      "cautions": "Public footpath through the northern land. Partly modernised; shower-room count taken from the described accommodation.",
+      "summary": "Secluded stone cottage with adjoining barn and a paddock, overlooking the Carno hills.",
+      "observedAt": "2026-10-11",
+      "availability": "Advertised for sale — confirm with agent",
+      "checked": "2026-10-11",
+      "sample": false,
+      "seen": false,
+      "decision": "",
+      "notes": "",
+      "folders": [],
+      "history": [
+        {
+          "date": "2026-10-11",
+          "price": 495000
+        }
+      ],
+      "created": 1791712800004
+    },
+    {
+      "id": "real-adfa",
+      "title": "Detached cottage at Adfa",
+      "area": "Adfa, near Newtown",
+      "region": "Mid Wales",
+      "price": 425000,
+      "acres": 2.62,
+      "beds": 2,
+      "baths": 2,
+      "type": "Detached",
+      "setting": "Rural",
+      "condition": "Ready to move in",
+      "url": "https://www.landsale.co.uk/properties/147973",
+      "source": "LandSale",
+      "access": "Track access and gravel parking",
+      "planning": "No building permission confirmed in the listing details reviewed.",
+      "cautions": "Electricity supplied by solar panels, batteries and a backup petrol generator. Upstairs rooms have restricted headroom. Bathroom count is the portal's stated figure.",
+      "summary": "Cottage renovated in 2022 with paddocks and a barn containing six stables.",
+      "observedAt": "2026-10-11",
+      "availability": "Advertised for sale — confirm with agent",
+      "checked": "2026-10-11",
+      "sample": false,
+      "seen": false,
+      "decision": "",
+      "notes": "",
+      "folders": [],
+      "history": [
+        {
+          "date": "2026-10-11",
+          "price": 425000
+        }
+      ],
+      "created": 1791712800005
+    }
+  ]
+}
