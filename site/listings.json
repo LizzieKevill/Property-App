@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-11T19:34:45.616Z",
-  "lastSearchAt": "2026-10-11T19:34:45.616Z",
-  "searchStatus": "Search completed: 0 matching results processed",
+  "updatedAt": "2026-10-11T21:55:36.213Z",
+  "lastSearchAt": "2026-10-11T21:55:36.213Z",
+  "searchStatus": "Search completed: 240 results, 29 listing pages checked, 3 matches, 3 new houses. 33 awaiting a later check.",
   "properties": [
     {
       "id": "real-hafodty",
@@ -897,6 +897,707 @@
       "lon": -3.397517,
       "dataQuality": "listing-page",
       "priceQualifier": "Listing-page price — confirm"
+    },
+    {
+      "id": "search-c04b121f0805e3a0",
+      "title": "Hemford, Minsterley, Shrewsbury",
+      "area": "Hemford, Minsterley, Shrewsbury",
+      "postcode": "",
+      "address": "",
+      "region": "Shropshire",
+      "price": 395000,
+      "acres": 3,
+      "beds": 4,
+      "baths": null,
+      "type": "Detached",
+      "setting": "Rural",
+      "condition": "",
+      "source": "LandSale",
+      "url": "https://www.landsale.co.uk/properties/152567",
+      "links": [],
+      "sample": false,
+      "seen": false,
+      "decision": "",
+      "folders": [],
+      "notes": "",
+      "history": [
+        {
+          "date": "2026-10-11",
+          "price": 395000
+        }
+      ],
+      "created": 1791755736213,
+      "observedAt": "2026-10-11T21:55:36.213Z",
+      "lat": 52.599357,
+      "lon": -2.997815,
+      "availability": "Advertised for sale — confirm with agent",
+      "checked": "2026-10-11",
+      "dataQuality": "listing-page",
+      "priceQualifier": "Listing-page price — confirm",
+      "access": "Not verified",
+      "planning": "Not verified",
+      "cautions": "Automatically matched from the original advert. Verify land boundaries, road access, availability and planning with the agent. Permission to build is not confirmed.",
+      "summary": "Price, land and bedroom details checked against the original listing.",
+      "photos": [
+        {
+          "url": "https://img.landsale.co.uk/images/properties/8acb583e3b7ba8ad67a633ad262d3503.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/acbe928aef9d999802a3d989661a6548.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/409d605585d597658b6b0c854497e8bc.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/c67bbee286c34e4ef5a54f7f205b6351.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/6a6ca156248e1f3ec282ceb0baf7b55e.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/3e42579f17fc3fb759ac769efc61d45c.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/d5438a35b30872c78b25b243467c62c3.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/fab02091fe24fad960ddd8df3b2af893.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/3246fee31c35f090e568198046f07797.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/ec8d5f312223b02e115033fc659260cb.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/23700542c83a3115c2f9fd71c7daf84c.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/775a56700d541cb52be2eb436e9beeea.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/d539efa39cce4774fc8f53d98fe4ac8b.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/488fb1e91d45bdc0327b8bb92b0e5e4c.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/9d389d65eab073ac6178f8d56bb5c3e3.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/561af56056421e47369c9df50e49c2b8.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/64d6430409cb1495f79727368360a814.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/39170e8c9322a693e802421f5cc35b63.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/377cec844e33162b51b0a19b9bbae030.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/c6ba294822e93b975d7727899c187c93.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/46c35ad43ad2dacbca3753f296ecdc18.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/bf07bded2f55e199acc1a9dc3fbd8f02.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/a50f4429699b7908dfc6e682f2706808.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/2109ae9a619b7236ae2a02e64a5f836e.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/b573ce0fab76c506baaa97fca8e14ef9.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/f3ef4abbccaf6ec8f0b2a972c03ff4ed.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/8907dd0d184d10feb031a8c44d1d9fef.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/113091507b7e8a0c550bb7ae532f7869.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/e4a7ced33498cc96d600ed36ac4a4d48.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/d104e59e2fcb23e7b2f93f430e8bd451.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/bdec76b100ce285b2d01f73f4b45d208.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/a4cbf85e6bb25e50d2b821c33c7e8dd0.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/5deebed863a829e6f93fc42fd7550dc1.jpeg",
+          "caption": ""
+        }
+      ],
+      "photosSourceUrl": "https://www.landsale.co.uk/properties/152567",
+      "photosChecked": "2026-10-11T21:55:36.213Z"
+    },
+    {
+      "id": "search-e0a57bc18254eaac",
+      "title": "Sunnybank, Cefnllys, Penybont, Llandrindod Wells, LD1",
+      "area": "Sunnybank, Cefnllys, Penybont, Llandrindod Wells, LD1",
+      "postcode": "",
+      "address": "",
+      "region": "Mid Wales",
+      "price": 480000,
+      "acres": 2.92,
+      "beds": 3,
+      "baths": null,
+      "type": "Detached",
+      "setting": "Rural",
+      "condition": "",
+      "source": "LandSale",
+      "url": "https://www.landsale.co.uk/properties/135327",
+      "links": [],
+      "sample": false,
+      "seen": false,
+      "decision": "",
+      "folders": [],
+      "notes": "",
+      "history": [
+        {
+          "date": "2026-10-11",
+          "price": 480000
+        }
+      ],
+      "created": 1791755736213,
+      "observedAt": "2026-10-11T21:55:36.213Z",
+      "lat": 52.235783,
+      "lon": -3.298339,
+      "availability": "Advertised for sale — confirm with agent",
+      "checked": "2026-10-11",
+      "dataQuality": "listing-page",
+      "priceQualifier": "Listing-page price — confirm",
+      "access": "Not verified",
+      "planning": "Not verified",
+      "cautions": "Automatically matched from the original advert. Verify land boundaries, road access, availability and planning with the agent. Permission to build is not confirmed.",
+      "summary": "Price, land and bedroom details checked against the original listing.",
+      "photos": [
+        {
+          "url": "https://img.landsale.co.uk/images/properties/0349e1ecdba9da2ad52257511cdee088.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/a954352f62feb44955767a12c3a21185.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/90a16fab1bd093c757e52b98060f7c29.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/fd0fdaaa0046bc9d805a79eb156ab2a0.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/f2c0ca2e28cbef6d0ddc95b0895cffd8.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/bf27e4c6f81fa788bf8c9cc2a9a79150.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/80f850200f3ef1cc58ea53b05fd6eab2.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/6583b8f73d0eb71abb3bf091e5487cf3.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/f336a38ac47be8934fcd0396c48823a5.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/00d99b1851191733afb040c9c5fb97b8.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/4d8d8a2db11fc513b1520935ba61022e.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/d027d16c03ee3aadc0e00e9efa954e6d.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/9a8b9e6ea0395a84ccd91575e2776783.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/ecf936c04455c9ef40d2885291b8cbb5.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/eaf4a8c96179cc868be04dd4a0695bbd.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/fd3583b7bc33d4361cc6155b144c6e0f.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/bfc84fab7ffec267c49fea593a070707.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/20c97bd823a9d792c1ee544fa9ced73b.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/282c785519a292b7b0668f6b9676fdad.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/2bbb77c724956369d0466be819d0edde.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/3bca3bab2387b4e14e6a767a74238ed1.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/7cb9ae14b084cadcef30feeaaa7a6d63.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/7ae8c07d457dbde012881d2eeeb3c219.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/72a9c8f7020b76de9fa4f988de5c91ae.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/9b5203ba9a9e3f79a127c94d3b583b2d.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/c6eac788c7d74bafd73db90633fb461c.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/1134e57283c2d918a259b8490c530987.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/24c4a25625a056593b483f4ada11fb6e.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/3e066b5061819f316fb9ff6348b57997.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/b3ffbb8c95d61f6c478de58f0fd53975.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/0c31f9ef16e0f069c92f55ba1e634edb.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/920876aae9e0791115b8918c4ab80f19.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/e0885c776a7d5c97ecd3b4db49329e77.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/d47e8d5cf68f583824f18bbe53f95d5d.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/7495be1ee7201a166a30a7008a3ed0a7.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/0e1d8ab810f3200ce1ef5d83b03b3760.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/4b37521afcf0ba54d69632c9d29c0c23.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/bd6b5d6dbf72eea59134b12f0d3ab65d.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/d64d40b3d344028a50de597de1af7fc2.jpeg",
+          "caption": ""
+        }
+      ],
+      "photosSourceUrl": "https://www.landsale.co.uk/properties/135327",
+      "photosChecked": "2026-10-11T21:55:36.213Z"
+    },
+    {
+      "id": "search-445ae15a13de8a07",
+      "title": "Maesymeillion, Llandysul",
+      "area": "Maesymeillion, Llandysul",
+      "postcode": "",
+      "address": "",
+      "region": "Mid Wales",
+      "price": 475000,
+      "acres": 2,
+      "beds": 3,
+      "baths": null,
+      "type": "Detached",
+      "setting": "Rural",
+      "condition": "",
+      "source": "LandSale",
+      "url": "https://www.landsale.co.uk/properties/150410",
+      "links": [],
+      "sample": false,
+      "seen": false,
+      "decision": "",
+      "folders": [],
+      "notes": "",
+      "history": [
+        {
+          "date": "2026-10-11",
+          "price": 475000
+        }
+      ],
+      "created": 1791755736213,
+      "observedAt": "2026-10-11T21:55:36.213Z",
+      "lat": 52.088222,
+      "lon": -4.306071,
+      "availability": "Advertised for sale — confirm with agent",
+      "checked": "2026-10-11",
+      "dataQuality": "listing-page",
+      "priceQualifier": "Listing-page price — confirm",
+      "access": "Not verified",
+      "planning": "Not verified",
+      "cautions": "Automatically matched from the original advert. Verify land boundaries, road access, availability and planning with the agent. Permission to build is not confirmed.",
+      "summary": "Price, land and bedroom details checked against the original listing.",
+      "photos": [
+        {
+          "url": "https://img.landsale.co.uk/images/properties/3782dbaae4250b927b675c3deb88d881.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/fc98db89f8ff82caf488c3c02c3a56cf.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/a8660eca7cc9d90f66044613af03c5ce.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/0e96d95b705eed75feaa31d19750e937.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/93e6a70bf6eca7075eb334177127701a.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/050e43dde4c7ef61d1ed6eeed4b621c9.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/f90bbaa00c510d257d79e8bccf3e95d0.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/2d50527faaf8642a4415ea96a0f49205.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/bc5e2ad2bb675dfb217872ce99c61bac.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/90bc28903361a78c1f059b88c387b532.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/20e3f953ae157a6ed1e641b4891d82c2.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/96e1f357dc3f55c65d97ebc1e7a3ee74.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/86386fd3dcb68d68d7f8287f0775c042.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/4290bef3473f9d494079adf87ab32840.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/52386811461e70dababfa36a1c8cbbbc.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/d204457eed2f95ff0960691c512e6135.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/352eac2bc8548b3159415984fa147199.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/6a98a1fae690a87edecd56cc1193d3b6.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/d37db9774162b5c288b1f63c3171e74f.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/2825f66a30325b3e68e827cf18a4b250.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/a9a0edce41747fb14670ff995b71ec47.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/533600045cf6b92ddc5364a955d13c18.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/0446ec8f0c7d8cce415ae3b57cd3df4f.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/62cf2b7bf048a1df531f0675344fbd3d.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/0cb96e74286c49a4961896cd1c4a1d40.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/2f712366a03582abcbd799e8443388a8.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/22399d104b8ef09bea59c5797cdc8ec5.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/2ab69e0cea070be5e13e54a7182a232d.jpeg",
+          "caption": ""
+        }
+      ],
+      "photosSourceUrl": "https://www.landsale.co.uk/properties/150410",
+      "photosChecked": "2026-10-11T21:55:36.213Z"
     }
-  ]
+  ],
+  "searchOffsets": {
+    "site:rightmove.co.uk Shropshire acres \"for sale\"": 1,
+    "site:rightmove.co.uk Powys acres \"for sale\"": 1,
+    "site:rightmove.co.uk Ceredigion acres \"for sale\"": 1,
+    "site:rightmove.co.uk Mid Wales acres \"for sale\"": 1,
+    "site:onthemarket.com Shropshire acres \"for sale\"": 1,
+    "site:onthemarket.com Powys acres \"for sale\"": 1,
+    "site:onthemarket.com Ceredigion acres \"for sale\"": 1,
+    "site:onthemarket.com Mid Wales acres \"for sale\"": 1,
+    "site:landsale.co.uk Shropshire acres \"for sale\"": 1,
+    "site:landsale.co.uk Powys acres \"for sale\"": 1,
+    "site:landsale.co.uk Ceredigion acres \"for sale\"": 1,
+    "site:landsale.co.uk Mid Wales acres \"for sale\"": 1
+  },
+  "searchCycle": 1,
+  "discoveryQueue": [
+    {
+      "url": "https://www.landsale.co.uk/properties/147760",
+      "title": "35.88 Acres of Agricultural Land for Sale in Llanfair Clydogau, Ceredigion | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/112858",
+      "title": "12.2 Acres of Farmland for Sale in Llandysul, Ceredigion | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/127771",
+      "title": "71.73 Acre Farm for Sale in Ystrad Meurig, Ceredigion | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/128838",
+      "title": "14.6 Acre Stately Home for Sale in Cardigan, Ceredigion | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/84809",
+      "title": "77.4 Acres of Farmland for Sale in Llandysiliogogo, Ceredigion | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/107214",
+      "title": "6.97 Acre Smallholding for Sale in Llanrhystyd, Ceredigion | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/140020",
+      "title": "37 Acre Smallholding for Sale in Llanllwchaiarn, Ceredigion | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/123869",
+      "title": "51 Acre Farm for Sale in Llangeitho, Ceredigion | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/83899",
+      "title": "4.5 Acre Smallholding for Sale in Llanrhystyd, Ceredigion | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/134656",
+      "title": "12.3 Acre Smallholding for Sale in Henfynyw, Ceredigion | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/95834",
+      "title": "22.5 Acre Smallholding for Sale in Llandysiliogogo, Ceredigion | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/114384",
+      "title": "1.6 Acre House with Land for Sale in Llangwyryfon, Ceredigion | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/126534",
+      "title": "207 Acres of Farmland for Sale in Llansawel, Carmarthenshire | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/122792",
+      "title": "3.74 Acres of Agricultural Land for Sale in Pontypridd Town, Rhondda Cynon Taf | LandSale"
+    },
+    {
+      "url": "https://www.rightmove.co.uk/properties/150515246",
+      "title": "Farm land for sale in Harton, Nr Church Stretton, Shropshire, SY6"
+    },
+    {
+      "url": "https://www.rightmove.co.uk/properties/140504324",
+      "title": "Property for sale in Whittington, Oswestry, Shropshire, SY11"
+    },
+    {
+      "url": "https://www.rightmove.co.uk/properties/162590921",
+      "title": "Land for sale in Brecon, Powys, LD3"
+    },
+    {
+      "url": "https://www.rightmove.co.uk/properties/87493776",
+      "title": "Farm land for sale in Trefeglwys, Caersws, Powys, SY17"
+    },
+    {
+      "url": "https://www.rightmove.co.uk/properties/160864280",
+      "title": "Land for sale in Taliesin, Machynlleth, Ceredigion, SY20"
+    },
+    {
+      "url": "https://www.onthemarket.com/details/13356678/",
+      "title": "Nash, Ludlow, Shropshire, SY8 3AY 5 bed farm house - £1,745,000"
+    },
+    {
+      "url": "https://www.onthemarket.com/details/13356675/",
+      "title": "Nash, Ludlow, Shropshire, SY8 3AY Land - £475,000"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/93557",
+      "title": "7 acres of Residential Land for Sale in Clunbury, Shropshire | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/82307",
+      "title": "33.65 Acres of Grazing Land for Sale in Llangynog, Powys | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/107194",
+      "title": "16.95 Acres of Agricultural Land for Sale in Caersws, Powys | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/115775",
+      "title": "85 Acre Farm for Sale in Llanfrynach, Powys | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/117537",
+      "title": "27.21 Acre Farm for Sale in Llanfihangel, Powys | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/92934",
+      "title": "1.24 Acres of Residential Land for Sale in Dinas Powys, Vale of Glamorgan | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/111996",
+      "title": "1.25 Acre Country Home for Sale in Llandyssil, Powys | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/119441",
+      "title": "3.5 Acre House with Land for Sale in Llangynog, Powys | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/117023",
+      "title": "1 Acre Cottage for Sale in Llangurig, Powys | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/113772",
+      "title": "3 Acre Country Home for Sale in Caersws, Powys | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/123038",
+      "title": "67.5 Acre Farm for Sale in Lledrod, Ceredigion | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/119167",
+      "title": "2.3 Acres of Agricultural Land for Sale in Henfynyw, Ceredigion | LandSale"
+    }
+  ],
+  "searchReport": {
+    "resultsReturned": 240,
+    "candidateListings": 62,
+    "pagesChecked": 29,
+    "pagesUnavailable": 19,
+    "matchingListings": 3,
+    "newProperties": 3,
+    "queued": 33,
+    "rejected": {
+      "not available for sale": 2,
+      "above budget": 14,
+      "land missing or ambiguous": 2,
+      "price missing": 1,
+      "bedrooms missing or below minimum": 6,
+      "too little land": 1
+    }
+  }
 }
