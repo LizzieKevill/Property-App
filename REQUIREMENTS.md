@@ -20,7 +20,6 @@ A clean, stylish app accessible on a phone that brings UK house listings into on
 
 ## Decisions still needed
 
-- Clarify the dictated location phrase "Shropshire mid-sal": Shropshire is confirmed; the additional area is not yet identified.
 - Clarify whether "off road/slightly off road" means set back from a main road, private access, or another preference.
 - Confirm whether one bedroom is sufficient or two is a strict minimum. Proposed inclusive default: one, with an editable minimum.
 - Whether properties can belong to multiple custom folders.
@@ -31,7 +30,7 @@ A clean, stylish app accessible on a phone that brings UK house listings into on
 - Preferred maximum asking price: GBP 500,000. Listings above this may be included through an explicit, optional over-budget setting; they must be clearly marked and excluded by default.
 - Minimum land area: approximately 2 acres; start with an editable 2-acre minimum. Listings with unknown acreage must be identified separately and not presented as matching the minimum.
 - Bedrooms: user described "one or two" as the minimum; use an editable filter and confirm the strict threshold before treating two as required.
-- Preferred location: around Shropshire. Location and radius must be changeable; do not lock the search to this area. A further dictated location phrase is awaiting clarification.
+- Preferred locations: Shropshire and Mid Wales. Location and radius must be changeable; do not lock the search to these areas.
 - Property type: detached house.
 - Setting: rural, away from densely built-up town areas.
 - Road position: off or slightly off the road; the intended access/setback preference needs clarification.
