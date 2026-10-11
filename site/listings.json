@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-11T18:12:44.064Z",
+  "updatedAt": "2026-10-11T19:24:39.218Z",
   "lastSearchAt": "2026-10-11T18:12:44.064Z",
   "searchStatus": "Search completed: 0 matching results processed",
   "properties": [
@@ -22,7 +22,7 @@
       "planning": "Agent listing reports permission to convert the barn into a two-bedroom home. Permission reference and current validity not independently checked.",
       "cautions": "8.34 acres advertised in total, but 5.55 acres are subject to an Agricultural Holdings Act tenancy. The filter uses the stated 2.79 acres not subject to that tenancy.",
       "summary": "Stone farmhouse with barn, woodland, gardens and a pond in the Berwyn uplands.",
-      "observedAt": "2026-10-11",
+      "observedAt": "2026-10-11T19:24:39.218Z",
       "availability": "Advertised for sale — confirm with agent",
       "checked": "2026-10-11",
       "sample": false,
@@ -164,7 +164,19 @@
         }
       ],
       "photosSourceUrl": "https://www.onthemarket.com/details/19731924/",
-      "photosChecked": "2026-10-11T18:22:34.338Z"
+      "photosChecked": "2026-10-11T19:24:39.218Z",
+      "postcode": "SY10 0DE",
+      "address": "",
+      "links": [
+        {
+          "source": "OnTheMarket",
+          "url": "https://www.onthemarket.com/details/19731924/"
+        }
+      ],
+      "lat": 52.875849,
+      "lon": -3.311986,
+      "dataQuality": "listing-page",
+      "priceQualifier": "Listing-page price — confirm"
     },
     {
       "id": "real-gamlyn",
@@ -172,7 +184,7 @@
       "area": "Aberffrwd, near Aberystwyth",
       "region": "Mid Wales",
       "price": 400000,
-      "priceQualifier": "Offers over",
+      "priceQualifier": "Listing-page price — confirm",
       "acres": 5.5,
       "beds": 3,
       "baths": 1,
@@ -185,7 +197,7 @@
       "planning": "No building permission confirmed in the listing details reviewed.",
       "cautions": "Offers over £400,000, not a fixed purchase price. Land borders the River Rheidol; check the exact road position and land layout.",
       "summary": "Detached cottage with gardens, paddocks, garage and other outbuildings in the Rheidol valley.",
-      "observedAt": "2026-10-11",
+      "observedAt": "2026-10-11T19:24:39.218Z",
       "availability": "Advertised for sale — confirm with agent",
       "checked": "2026-10-11",
       "sample": false,
@@ -375,7 +387,18 @@
         }
       ],
       "photosSourceUrl": "https://www.onthemarket.com/details/17490284/",
-      "photosChecked": "2026-10-11T18:22:34.338Z"
+      "photosChecked": "2026-10-11T19:24:39.218Z",
+      "postcode": "SY23 3ND",
+      "address": "",
+      "links": [
+        {
+          "source": "OnTheMarket",
+          "url": "https://www.onthemarket.com/details/17490284/"
+        }
+      ],
+      "lat": 52.39117595473701,
+      "lon": -3.9425708456022535,
+      "dataQuality": "listing-page"
     },
     {
       "id": "real-lower-stocks",
@@ -395,7 +418,7 @@
       "planning": "Listing mentions potential barn conversions subject to consent. No permission for new dwellings independently confirmed.",
       "cautions": "Major reconstruction project: farmhouse stripped to its timber frame. Agent says it may be unmortgageable and suited to cash buyers. Advertised bedrooms describe the intended house, not finished accommodation.",
       "summary": "Farmhouse restoration opportunity with agricultural buildings and open countryside views.",
-      "observedAt": "2026-10-11",
+      "observedAt": "2026-10-11T19:24:39.218Z",
       "availability": "Advertised for sale — confirm with agent",
       "checked": "2026-10-11",
       "sample": false,
@@ -469,7 +492,19 @@
         }
       ],
       "photosSourceUrl": "https://www.onthemarket.com/details/20404516/",
-      "photosChecked": "2026-10-11T18:22:34.338Z"
+      "photosChecked": "2026-10-11T19:24:39.218Z",
+      "postcode": "SY12 0ND",
+      "address": "",
+      "links": [
+        {
+          "source": "OnTheMarket",
+          "url": "https://www.onthemarket.com/details/20404516/"
+        }
+      ],
+      "lat": 52.927056,
+      "lon": -2.865355,
+      "dataQuality": "listing-page",
+      "priceQualifier": "Listing-page price — confirm"
     },
     {
       "id": "real-ffos-ddu",
@@ -477,7 +512,7 @@
       "area": "Carno, Caersws",
       "region": "Mid Wales",
       "price": 495000,
-      "priceQualifier": "Guide price",
+      "priceQualifier": "Listing-page price — confirm",
       "acres": 3.83,
       "beds": 3,
       "baths": 2,
@@ -488,6 +523,10 @@
       "source": "Rightmove",
       "links": [
         {
+          "source": "Rightmove",
+          "url": "https://www.rightmove.co.uk/properties/161591489"
+        },
+        {
           "source": "LandSale",
           "url": "https://www.landsale.co.uk/properties/97850"
         }
@@ -496,7 +535,7 @@
       "planning": "Attached barn described as having conversion potential. Building permission not confirmed.",
       "cautions": "Public footpath through the northern land. Partly modernised; shower-room count taken from the described accommodation.",
       "summary": "Secluded stone cottage with adjoining barn and a paddock, overlooking the Carno hills.",
-      "observedAt": "2026-10-11",
+      "observedAt": "2026-10-11T19:24:39.218Z",
       "availability": "Advertised for sale — confirm with agent",
       "checked": "2026-10-11",
       "sample": false,
@@ -678,14 +717,19 @@
         }
       ],
       "photosSourceUrl": "https://www.rightmove.co.uk/properties/161591489",
-      "photosChecked": "2026-10-11T18:22:34.338Z"
+      "photosChecked": "2026-10-11T19:24:39.218Z",
+      "postcode": "SY17 5JX",
+      "address": "",
+      "lat": 52.584661,
+      "lon": -3.565428,
+      "dataQuality": "listing-page"
     },
     {
       "id": "real-adfa",
       "title": "Detached cottage at Adfa",
       "area": "Adfa, near Newtown",
       "region": "Mid Wales",
-      "price": 425000,
+      "price": 395000,
       "acres": 2.62,
       "beds": 2,
       "baths": 2,
@@ -698,7 +742,7 @@
       "planning": "No building permission confirmed in the listing details reviewed.",
       "cautions": "Electricity supplied by solar panels, batteries and a backup petrol generator. Upstairs rooms have restricted headroom. Bathroom count is the portal's stated figure.",
       "summary": "Cottage renovated in 2022 with paddocks and a barn containing six stables.",
-      "observedAt": "2026-10-11",
+      "observedAt": "2026-10-11T19:24:39.218Z",
       "availability": "Advertised for sale — confirm with agent",
       "checked": "2026-10-11",
       "sample": false,
@@ -710,6 +754,10 @@
         {
           "date": "2026-10-11",
           "price": 425000
+        },
+        {
+          "date": "2026-10-11",
+          "price": 395000
         }
       ],
       "created": 1791712800005,
@@ -836,7 +884,19 @@
         }
       ],
       "photosSourceUrl": "https://www.landsale.co.uk/properties/147973",
-      "photosChecked": "2026-10-11T18:22:34.338Z"
+      "photosChecked": "2026-10-11T19:24:39.218Z",
+      "postcode": "",
+      "address": "",
+      "links": [
+        {
+          "source": "LandSale",
+          "url": "https://www.landsale.co.uk/properties/147973"
+        }
+      ],
+      "lat": 52.594627,
+      "lon": -3.397517,
+      "dataQuality": "listing-page",
+      "priceQualifier": "Listing-page price — confirm"
     }
   ]
 }

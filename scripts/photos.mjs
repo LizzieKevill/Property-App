@@ -1,6 +1,6 @@
 import {photoUrl} from '../site/gallery.mjs';
 
-const listingUrl=value=>{try{const u=new URL(value);const paths={'www.onthemarket.com':/^\/details\/\d+\/?$/,'www.rightmove.co.uk':/^\/properties\/\d+\/?$/,'www.landsale.co.uk':/^\/properties\/\d+\/?$/};return u.protocol==='https:'&&!u.username&&!u.password&&paths[u.hostname]?.test(u.pathname)?u.href:'';}catch{return '';}};
+export const listingUrl=value=>{try{const u=new URL(value);u.hostname='www.'+u.hostname.replace(/^www\./,'');const paths={'www.onthemarket.com':/^\/details\/\d+\/?$/,'www.rightmove.co.uk':/^\/properties\/\d+\/?$/,'www.landsale.co.uk':/^\/properties\/\d+\/?$/};u.hash='';u.search='';return u.protocol==='https:'&&!u.username&&!u.password&&!u.port&&paths[u.hostname]?.test(u.pathname)?u.href:'';}catch{return '';}};
 export function extractPhotos(html,url){
  const valid=listingUrl(url);if(!valid)return [];
  const u=new URL(valid),id=u.pathname.match(/\d+/)[0];let images=[];

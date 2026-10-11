@@ -14,7 +14,7 @@ const context=vm.createContext({...model,...catalogueModel,...galleryModel,fetch
 const source=(await readFile(new URL('../site/app.js',import.meta.url),'utf8')).replace(/^import .*?;\r?\n/gm,'');
 vm.runInContext(source,context);
 await vm.runInContext('refreshCatalogue()',context);
-assert.match(get('count').textContent,/5 properties/);
+assert.equal(get('count').textContent,`${catalogue.properties.filter(p=>model.matches(p,model.defaults)).length} properties matching your search`);
 assert.match(get('cards').innerHTML,/REAL LISTING/);
 assert.match(get('cards').innerHTML,/tenancy/);
 assert.match(get('cards').innerHTML,/Also listed on/);
@@ -39,4 +39,16 @@ get('gallery-stage').listeners.error();assert.match(get('gallery-stage').innerHT
 get('viewer-close').onclick();assert.equal(get('viewer').open,false);
 assert.equal(vm.runInContext('valid({...state,properties:[{...state.properties[0],photos:[{url:"javascript:alert(1)"}]}]})',context),false);
 assert.equal(vm.runInContext('valid({...state,properties:[{...state.properties[0],links:"broken"}]})',context),false);
-console.log('21 app interaction / backup assertions passed (simulated DOM).');
+get('collections').onclick({target:{closest:()=>({dataset:{collection:'Undecided'}})}});
+const before=Number(get('count').textContent.split(' ')[0]);
+get('cards').listeners.change({target:{value:'Disregarded',dataset:{action:'decision'},closest:()=>({dataset:{id:'real-hafodty'}})}});
+assert.equal(Number(get('count').textContent.split(' ')[0]),before-1);
+assert.equal(get('cards').innerHTML.includes('Hafodty farmhouse'),false);
+get('collections').onclick({target:{closest:()=>({dataset:{collection:'Disregarded'}})}});
+assert.match(get('cards').innerHTML,/Hafodty farmhouse/);
+await vm.runInContext('refreshCatalogue()',context);
+assert.equal(JSON.parse(stored).properties.find(p=>p.id==='real-hafodty').decision,'Disregarded');
+get('cards').listeners.change({target:{value:'',dataset:{action:'decision'},closest:()=>({dataset:{id:'real-hafodty'}})}});
+get('collections').onclick({target:{closest:()=>({dataset:{collection:'Undecided'}})}});
+assert.match(get('cards').innerHTML,/Hafodty farmhouse/);
+console.log('26 app interaction / backup assertions passed (simulated DOM).');
