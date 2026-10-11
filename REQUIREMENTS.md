@@ -10,6 +10,9 @@ A clean, stylish app accessible on a phone that brings UK house listings into on
 - Personal use initially: one user's saved properties and folders. Shared folders and separate accounts are outside the initial scope. Cross-device persistence remains an implementation decision.
 - Custom folders/categories, with suggested starting folders: Not seen, Seen, Possibilities, and Favourites.
 - A favourite/like toggle available directly on each property card.
+- "Seen" means the listing has been viewed online, not that the property has been visited in person.
+- Track online review separately from the user's decision: disregarded, liked/favourited, or watching. A seen property can have any of these decisions.
+- Watching means following whether a listing is still available and how its asking price changes. Keep dated price observations and the last availability check; automatic updates depend on authorised source access, with manual updates as an initial option.
 - Share the original listing link through the phone's share sheet, including WhatsApp where available; provide a copy-link fallback.
 - Filters for minimum/maximum price in GBP, land area in acres, bedroom count, bathroom count, and location with a radius in miles.
 - Location examples include Ludlow and Dudley; these are examples, not fixed search defaults.
@@ -17,7 +20,6 @@ A clean, stylish app accessible on a phone that brings UK house listings into on
 
 ## Decisions still needed
 
-- Whether "seen" means viewed online or visited in person. Consider separate statuses for both.
 - Minimum search defaults, including budget, acreage, and location.
 - Whether properties can belong to multiple custom folders.
 - Whether radius means straight-line distance or driving distance. Proposed first version: clearly labelled straight-line distance.
@@ -38,7 +40,7 @@ GitHub Pages will host the frontend. Authorised integrations requiring credentia
 
 - Notes and viewing dates on each saved property.
 - Duplicate detection to identify the same home across multiple websites.
-- Separate online review and in-person viewing status.
+- Optional in-person viewing status, kept separate from the confirmed online "seen" status.
 - Saved searches to avoid repeatedly entering filters.
 - Backup/export of saved properties.
 - Explicit "Not stated" values for missing acreage or bathroom information; never treat missing data as zero.
