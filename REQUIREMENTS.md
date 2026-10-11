@@ -6,7 +6,8 @@ A clean, stylish app accessible on a phone that brings UK house listings into on
 
 ## Requested features
 
-- Listings from Rightmove and two additional sources to be confirmed: dictated as "land sale" and "open market". Do not assume their identities.
+- Listings from Rightmove (https://www.rightmove.co.uk/), OnTheMarket (https://www.onthemarket.com/), and LandSale (https://www.landsale.co.uk/).
+- Personal use initially: one user's saved properties and folders. Shared folders and separate accounts are outside the initial scope. Cross-device persistence remains an implementation decision.
 - Custom folders/categories, with suggested starting folders: Not seen, Seen, Possibilities, and Favourites.
 - A favourite/like toggle available directly on each property card.
 - Share the original listing link through the phone's share sheet, including WhatsApp where available; provide a copy-link fallback.
@@ -16,8 +17,6 @@ A clean, stylish app accessible on a phone that brings UK house listings into on
 
 ## Decisions still needed
 
-- Exact names/URLs of the other listing websites.
-- Personal use, shared household folders, or separate user accounts.
 - Whether "seen" means viewed online or visited in person. Consider separate statuses for both.
 - Minimum search defaults, including budget, acreage, and location.
 - Whether properties can belong to multiple custom folders.
@@ -47,7 +46,7 @@ GitHub Pages will host the frontend. Authorised integrations requiring credentia
 ## Proposed implementation stages
 
 1. Complete GitHub publishing and verify the Pages URL.
-2. Agree source websites and data access approach.
+2. Investigate authorised data access for the three confirmed source websites.
 3. Build mobile property cards, folders, favourites, filters, and sharing using clearly labelled sample data.
-4. Add persistent saved properties using the agreed personal/shared account model.
+4. Add persistent saved properties for personal use, with the storage and cross-device approach agreed before implementation.
 5. Connect authorised listing data and verify duplicate handling and missing fields.
