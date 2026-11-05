@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T01:29:29.246Z",
-  "lastSearchAt": "2026-11-05T01:29:29.246Z",
-  "searchStatus": "Search completed: 215 results, 12 listing pages checked, 0 matches, 0 new houses. 161 awaiting a later check.",
+  "updatedAt": "2026-11-05T09:26:51.713Z",
+  "lastSearchAt": "2026-11-05T09:26:51.713Z",
+  "searchStatus": "Search completed: 237 results, 12 listing pages checked, 1 matches, 1 new houses. 170 awaiting a later check.",
   "properties": [
     {
       "id": "real-hafodty",
@@ -2017,21 +2017,290 @@
       ],
       "photosSourceUrl": "https://www.landsale.co.uk/properties/113150",
       "photosChecked": "2026-11-04T14:28:51.601Z"
+    },
+    {
+      "id": "search-da9d37c9b519e3fe",
+      "title": "Prengwyn, Llandysul, SA44",
+      "area": "Prengwyn, Llandysul, SA44",
+      "postcode": "",
+      "address": "",
+      "region": "Mid Wales",
+      "price": 440000,
+      "acres": 2.4,
+      "beds": 4,
+      "baths": null,
+      "type": "Detached",
+      "setting": "Rural",
+      "condition": "",
+      "source": "LandSale",
+      "url": "https://www.landsale.co.uk/properties/114472",
+      "links": [],
+      "sample": false,
+      "seen": false,
+      "decision": "",
+      "folders": [],
+      "notes": "",
+      "history": [
+        {
+          "date": "2026-11-05",
+          "price": 440000
+        }
+      ],
+      "created": 1793870811713,
+      "observedAt": "2026-11-05T09:26:51.713Z",
+      "lat": 52.073466,
+      "lon": -4.300338,
+      "availability": "Advertised for sale — confirm with agent",
+      "checked": "2026-11-05",
+      "dataQuality": "listing-page",
+      "priceQualifier": "Listing-page price — confirm",
+      "access": "Not verified",
+      "planning": "Not verified",
+      "cautions": "Automatically matched from the original advert. Verify land boundaries, road access, availability and planning with the agent. Permission to build is not confirmed.",
+      "summary": "Price, land and bedroom details checked against the original listing.",
+      "photos": [
+        {
+          "url": "https://img.landsale.co.uk/images/properties/9993fab9e7615e011eeb521d85b9c45e.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/bea075e1a9030cec3275253a5e241f68.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/19a833961ae52244a65903f846c9d50a.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/1ffa5c0c68619db610fb943d45803b33.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/f78b5ef0237ee4782fddbddc5494d8e9.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/117262a1685771bc1721c839fcc0a1c2.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/7896fed298f570c1eb48d26ee5749d70.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/a8388b8a39b27d4906f8af4322384307.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/8400aceae767a042d55518a0d060eb6c.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/e2210e2d71dc8a15a72bb6de26d28717.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/1f226aefe8fe94091a4a950d045d1f35.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/d303833ae64fa9212dc24ba3f49882a5.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/fa08ee0255ebe4ec50a86f69084af28d.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/070871cd849c2d9e305fdfd8cc0d9f74.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/3c66d0e03e83214e65766a4533bc591e.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/34d0dcec3b328019f8c7dc62739f95fe.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/b663f2d27dcae027bab57a903cb6dbbe.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/c41f627bad51ad80a9055afaed5921eb.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/e6d96d8eeb9a42b9119f220427b0d1c7.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/4cc49d9e2d35b73920ab1559b71a2eab.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/7e2c3189c20b5ea62a09afe474586482.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/0d59ad87dbfe8fbf87db243eea963d9e.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/4ea3b2a4ac24c492992564c052864cc8.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/292444a428fc912e430b6320a30f3021.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/aee9f8183c8c8d6e5d94d999194962c0.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/dd17878a77e445bc7c4e45e3c66abd2d.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/62e65673247c986d762aa7914acdb028.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/a1f20f7baeb9114f9122c7370cc95868.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/5935b43fb1e1b5a7e31d1d389a843cbb.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/e6132c8b725ee73e5b812c49ed6184b3.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/e4853c162845f1874e4548c57c007e1b.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/3cba58a2e14c83a89860935cc61c92b8.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/64f1000fa622da520dc2468d01e6773f.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/f5a4ed9b73344ca0f2558e242983b285.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/946d43253334b7996ba56d69a2f1d7f4.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/d427f27e9b73945d53ff9cc6ddb3a329.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/1a6eb22b56dcabfced6f94b7604d25d5.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/a3032e6f4f992160be66c7eebf78a197.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/3e3498c00ecc087d55019bc49b331cd1.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/718a7d1363733fbf93f4654de89f13dd.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/0dc009b4dbbdcf5b4acd4ef0ac148ca3.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/f993f77048d31a3f8055868f362d0b77.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/05de7b8f1dd698589487fa1015b4653d.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/aafb62881a1932abca1e31a69c6b7dea.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/600dd2767eed6ff9696742c15e218e90.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/67659f9d50e8a09f0493a37c592c058d.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/473fb82d50cde38ef0fb84e36ffb4364.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/43a0d535ae311fed466004fe8e533f3e.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/69e4051167f7b090171177d81f7ef81b.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/80d5c630f54d9bcde774b7259a54a4ce.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/f84005b576da7062ecb9378d2896ddee.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/f4a046b6e8cc4d9dd5132fd1e62c8ac0.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/b54c77e933facd9da1e55c2f87c76d89.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/b8876d8df437fe15929515808a441f08.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/967d374308b402686aae9fcb9bb78b65.jpeg",
+          "caption": ""
+        },
+        {
+          "url": "https://img.landsale.co.uk/images/properties/7c93ebc00690304f82345a603c96a76d.jpeg",
+          "caption": ""
+        }
+      ],
+      "photosSourceUrl": "https://www.landsale.co.uk/properties/114472",
+      "photosChecked": "2026-11-05T09:26:51.713Z"
     }
   ],
   "searchOffsets": {
-    "site:rightmove.co.uk Shropshire acres \"for sale\"": 0,
-    "site:rightmove.co.uk Powys acres \"for sale\"": 2,
-    "site:rightmove.co.uk Ceredigion acres \"for sale\"": 1,
-    "site:rightmove.co.uk Mid Wales acres \"for sale\"": 1,
-    "site:onthemarket.com Shropshire acres \"for sale\"": 2,
-    "site:onthemarket.com Powys acres \"for sale\"": 1,
-    "site:onthemarket.com Ceredigion acres \"for sale\"": 0,
-    "site:onthemarket.com Mid Wales acres \"for sale\"": 0,
-    "site:landsale.co.uk Shropshire acres \"for sale\"": 4,
-    "site:landsale.co.uk Powys acres \"for sale\"": 4,
-    "site:landsale.co.uk Ceredigion acres \"for sale\"": 4,
-    "site:landsale.co.uk Mid Wales acres \"for sale\"": 4,
+    "site:rightmove.co.uk Shropshire acres \"for sale\"": 1,
+    "site:rightmove.co.uk Powys acres \"for sale\"": 0,
+    "site:rightmove.co.uk Ceredigion acres \"for sale\"": 2,
+    "site:rightmove.co.uk Mid Wales acres \"for sale\"": 2,
+    "site:onthemarket.com Shropshire acres \"for sale\"": 3,
+    "site:onthemarket.com Powys acres \"for sale\"": 2,
+    "site:onthemarket.com Ceredigion acres \"for sale\"": 1,
+    "site:onthemarket.com Mid Wales acres \"for sale\"": 1,
+    "site:landsale.co.uk Shropshire acres \"for sale\"": 5,
+    "site:landsale.co.uk Powys acres \"for sale\"": 5,
+    "site:landsale.co.uk Ceredigion acres \"for sale\"": 5,
+    "site:landsale.co.uk Mid Wales acres \"for sale\"": 5,
     "site:rightmove.co.uk Shropshire land detached \"for sale\"": 0,
     "site:rightmove.co.uk Powys land detached \"for sale\"": 2,
     "site:rightmove.co.uk Ceredigion land detached \"for sale\"": 3,
@@ -2057,200 +2326,8 @@
     "site:landsale.co.uk Ceredigion smallholding \"for sale\"": 4,
     "site:landsale.co.uk Mid Wales smallholding \"for sale\"": 4
   },
-  "searchCycle": 96,
+  "searchCycle": 97,
   "discoveryQueue": [
-    {
-      "url": "https://www.landsale.co.uk/properties/140038",
-      "title": "11 Acre House with Land for Sale in Llanddarog, Carmarthenshire | LandSale"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/118031",
-      "title": "14 Acres of Farmland for Sale in Llandwrog, Gwynedd | LandSale"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/97313",
-      "title": "2.64 acres of Agricultural Land for Sale in Nantcwnlle, Ceredigion | LandSale"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/111103",
-      "title": "20 Acre Country Estate for Sale in Pencarreg, Carmarthenshire | LandSale"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/127771",
-      "title": "71.73 Acre Farm for Sale in Ystrad Meurig, Ceredigion | LandSale"
-    },
-    {
-      "url": "https://www.onthemarket.com/details/17583557/",
-      "title": "Builth Wells, Powys Land for sale - £115,000"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/155911",
-      "title": "162.83 Acre Farm for Sale in Bettws-y-Crwyn, Shropshire | LandSale"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/89521",
-      "title": "22.99 acres of Residential Land for Sale in Sutton upon Tern, Shropshire | LandSale"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/145346",
-      "title": "22.5 Acre House with Land for Sale in Llanfyllin, Powys | LandSale"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/111132",
-      "title": "10.75 Acres of Agricultural Land for Sale in Ystradfellte, Powys | LandSale"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/131481",
-      "title": "100 Acre Farm for Sale in Cilymaenllwyd, Carmarthenshire | LandSale"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/109763",
-      "title": "1.4 acres of Residential Land for Sale in Llangeitho, Ceredigion | LandSale"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/86101",
-      "title": "2 Acre Cottage for Sale in Ysbyty Ystwyth, Ceredigion | LandSale"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/87387",
-      "title": "6 Acre Smallholding for Sale in Tregaron, Ceredigion | LandSale"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/110487",
-      "title": "14.2 Acres of Farmland for Sale in Pencarreg, Carmarthenshire | LandSale"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/114472",
-      "title": "2.4 Acre House with Land for Sale in Llandysul, Ceredigion | LandSale"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/119731",
-      "title": "Farmland for Sale in Ystrad Fflur, Ceredigion | LandSale"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/82010",
-      "title": "Development Land for Sale in Llangrannog, Ceredigion | LandSale"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/147563",
-      "title": "0.32 Acre Building Plot for Sale in Beulah, Ceredigion | LandSale"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/117985",
-      "title": "4 Acre Farmhouse for Sale in Penbryn, Ceredigion | LandSale"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/111088",
-      "title": "2.5 Acre House with Land for Sale in Llandysul, Ceredigion | LandSale"
-    },
-    {
-      "url": "https://www.rightmove.co.uk/properties/152006258",
-      "title": "Barn conversion for sale in Wyke Farm Barns, Wyke, Much Wenlock, Shropshire, TF13"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/76800",
-      "title": "5 Acres of Residential Land for Sale in Tregaron, Ceredigion | LandSale"
-    },
-    {
-      "url": "https://www.onthemarket.com/details/12912245/",
-      "title": "Land At Brickyard, Churchstoke, Montgomery, Powys, SY15 Land"
-    },
-    {
-      "url": "https://www.rightmove.co.uk/properties/170057858",
-      "title": "4 bedroom smallholding for sale in Llanarth, Ceredigion, SA47"
-    },
-    {
-      "url": "https://www.rightmove.co.uk/properties/165753077",
-      "title": "5 bedroom smallholding for sale in Tynreithyn, Tregaron, SY25"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/79318",
-      "title": "34 Acres of Agricultural Land for Sale in Llanfihangel Ystrad, Ceredigion | LandSale"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/110064",
-      "title": "2 Acres of Residential Land for Sale in Llangwyryfon, Ceredigion | LandSale"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/122792",
-      "title": "3.74 Acres of Agricultural Land for Sale in Pontypridd Town, Rhondda Cynon Taf | LandSale"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/132379",
-      "title": "Smallholding for Sale in Lledrod, Ceredigion | LandSale"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/83899",
-      "title": "4.5 Acre Smallholding for Sale in Llanrhystyd, Ceredigion | LandSale"
-    },
-    {
-      "url": "https://www.rightmove.co.uk/properties/157105517",
-      "title": "Check out this 3 bedroom smallholding for sale on Rightmove"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/107214",
-      "title": "6.97 Acre Smallholding for Sale in Llanrhystyd, Ceredigion | LandSale"
-    },
-    {
-      "url": "https://www.rightmove.co.uk/properties/149631881",
-      "title": "Detached house for sale in Bellan Estate, Llanerfyl, Welshpool, Powys, SY21"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/123869",
-      "title": "51 Acre Farm for Sale in Llangeitho, Ceredigion | LandSale"
-    },
-    {
-      "url": "https://www.rightmove.co.uk/properties/167262713",
-      "title": "Check out this 6 bedroom smallholding for sale on Rightmove"
-    },
-    {
-      "url": "https://www.rightmove.co.uk/properties/165063560",
-      "title": "Check out this 5 bedroom smallholding for sale on Rightmove"
-    },
-    {
-      "url": "https://www.rightmove.co.uk/properties/137314946",
-      "title": "4 bedroom smallholding for sale in Blaenpennal, Aberystwyth, SY23"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/107194",
-      "title": "16.95 Acres of Agricultural Land for Sale in Caersws, Powys | LandSale"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/93557",
-      "title": "7 acres of Residential Land for Sale in Clunbury, Shropshire | LandSale"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/115775",
-      "title": "85 Acre Farm for Sale in Llanfrynach, Powys | LandSale"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/106104",
-      "title": "Residential Land for Sale in Wem Rural, Shropshire | LandSale"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/117536",
-      "title": "4.2 Acre Cottage for Sale in Bitterley, Shropshire | LandSale"
-    },
-    {
-      "url": "https://www.rightmove.co.uk/properties/136725536",
-      "title": "Land for sale in Llangynog, Oswestry, Powys, SY10"
-    },
-    {
-      "url": "https://www.rightmove.co.uk/properties/163355525",
-      "title": "Check out this 2 bedroom smallholding for sale on Rightmove"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/114190",
-      "title": "1.7 Acre House with Land for Sale in Llanwnda, Gwynedd | LandSale"
-    },
-    {
-      "url": "https://www.onthemarket.com/details/13248759/",
-      "title": "Studio+ Properties With Land For Sale Within 1 Mile Of Sy7 | OnTheMarket"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/110232",
-      "title": "1 Acre House with Land for Sale in Llanwnda, Gwynedd | LandSale"
-    },
     {
       "url": "https://www.landsale.co.uk/properties/134573",
       "title": "2 Acre House with Land for Sale in Rushbury, Shropshire | LandSale"
@@ -2702,22 +2779,249 @@
     {
       "url": "https://www.landsale.co.uk/properties/91552",
       "title": "2 Acre Smallholding for Sale in Penbryn, Ceredigion | LandSale"
+    },
+    {
+      "url": "https://www.rightmove.co.uk/properties/94885065",
+      "title": "Barn for sale in Cil Haul, Talerddig, Llanbrynmair, Powys, SY19"
+    },
+    {
+      "url": "https://www.rightmove.co.uk/properties/93251619",
+      "title": "4 bedroom detached house for sale in Bettws Cedewain, Newtown, Powys, SY16"
+    },
+    {
+      "url": "https://www.rightmove.co.uk/properties/173936930",
+      "title": "3 bedroom chalet for sale in Caer Beris Holiday Park, Llanynis, Builth Wells, LD2"
+    },
+    {
+      "url": "https://www.rightmove.co.uk/properties/92078784",
+      "title": "5 bedroom detached house for sale in Powys Grove, Banbury OX16 0UG, OX16"
+    },
+    {
+      "url": "https://www.rightmove.co.uk/properties/94036596",
+      "title": "2 bedroom house for sale in Powis Terrace, Notting Hill, London, W11"
+    },
+    {
+      "url": "https://www.onthemarket.com/details/12871058/",
+      "title": "Morville, Bridgnorth, WV16 Land - Sale by tender"
+    },
+    {
+      "url": "https://www.onthemarket.com/details/15086722/",
+      "title": "Nash, Ludlow, Shropshire, SY8 Land - OnTheMarket"
+    },
+    {
+      "url": "https://www.onthemarket.com/details/16824109/",
+      "title": "Penbryn, Ceredigion, Wales, SA44 Land for sale - £225,000"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/155902",
+      "title": "58.32 Acres of Grazing Land for Sale in Bettws-y-Crwyn, Shropshire | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/131342",
+      "title": "357 Acres of Farmland for Sale in Badger, Shropshire | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/84426",
+      "title": "6.07 Acres of Agricultural Land for Sale in Ford, Shropshire | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/146199",
+      "title": "6.01 Acres of Development Land for Sale in Cressage, Shropshire | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/141808",
+      "title": "5.85 Acre Country Home for Sale in Culmington, Shropshire | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/91266",
+      "title": "1.78 Acres of Residential Land for Sale in Llangynog, Powys | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/147358",
+      "title": "22.4 Acres of Farmland for Sale in Llandysiliogogo, Ceredigion | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/154044",
+      "title": "48.69 Acres of Farmland for Sale in Troedyraur, Ceredigion | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/147760",
+      "title": "35.88 Acres of Agricultural Land for Sale in Llanfair Clydogau, Ceredigion | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/84809",
+      "title": "77.4 Acres of Farmland for Sale in Llandysiliogogo, Ceredigion | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/140020",
+      "title": "37 Acre Smallholding for Sale in Llanllwchaiarn, Ceredigion | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/118443",
+      "title": "1 Acre Country Home for Sale in Bow Street, Ceredigion | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/128838",
+      "title": "14.6 Acre Stately Home for Sale in Cardigan, Ceredigion | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/97313",
+      "title": "2.64 acres of Agricultural Land for Sale in Nantcwnlle, Ceredigion | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/118031",
+      "title": "14 Acres of Farmland for Sale in Llandwrog, Gwynedd | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/140038",
+      "title": "11 Acre House with Land for Sale in Llanddarog, Carmarthenshire | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/111103",
+      "title": "20 Acre Country Estate for Sale in Pencarreg, Carmarthenshire | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/127771",
+      "title": "71.73 Acre Farm for Sale in Ystrad Meurig, Ceredigion | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/109763",
+      "title": "1.4 acres of Residential Land for Sale in Llangeitho, Ceredigion | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/86101",
+      "title": "2 Acre Cottage for Sale in Ysbyty Ystwyth, Ceredigion | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/117985",
+      "title": "4 Acre Farmhouse for Sale in Penbryn, Ceredigion | LandSale"
+    },
+    {
+      "url": "https://www.rightmove.co.uk/properties/152006258",
+      "title": "Barn conversion for sale in Wyke Farm Barns, Wyke, Much Wenlock, Shropshire, TF13"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/111088",
+      "title": "2.5 Acre House with Land for Sale in Llandysul, Ceredigion | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/76800",
+      "title": "5 Acres of Residential Land for Sale in Tregaron, Ceredigion | LandSale"
+    },
+    {
+      "url": "https://www.onthemarket.com/details/12912245/",
+      "title": "Land At Brickyard, Churchstoke, Montgomery, Powys, SY15 Land"
+    },
+    {
+      "url": "https://www.rightmove.co.uk/properties/170057858",
+      "title": "4 bedroom smallholding for sale in Llanarth, Ceredigion, SA47"
+    },
+    {
+      "url": "https://www.rightmove.co.uk/properties/165753077",
+      "title": "5 bedroom smallholding for sale in Tynreithyn, Tregaron, SY25"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/79318",
+      "title": "34 Acres of Agricultural Land for Sale in Llanfihangel Ystrad, Ceredigion | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/110064",
+      "title": "2 Acres of Residential Land for Sale in Llangwyryfon, Ceredigion | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/122792",
+      "title": "3.74 Acres of Agricultural Land for Sale in Pontypridd Town, Rhondda Cynon Taf | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/132379",
+      "title": "Smallholding for Sale in Lledrod, Ceredigion | LandSale"
+    },
+    {
+      "url": "https://www.rightmove.co.uk/properties/157105517",
+      "title": "Check out this 3 bedroom smallholding for sale on Rightmove"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/83899",
+      "title": "4.5 Acre Smallholding for Sale in Llanrhystyd, Ceredigion | LandSale"
+    },
+    {
+      "url": "https://www.rightmove.co.uk/properties/149631881",
+      "title": "Detached house for sale in Bellan Estate, Llanerfyl, Welshpool, Powys, SY21"
+    },
+    {
+      "url": "https://www.rightmove.co.uk/properties/167262713",
+      "title": "Check out this 6 bedroom smallholding for sale on Rightmove"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/107214",
+      "title": "6.97 Acre Smallholding for Sale in Llanrhystyd, Ceredigion | LandSale"
+    },
+    {
+      "url": "https://www.rightmove.co.uk/properties/165063560",
+      "title": "Check out this 5 bedroom smallholding for sale on Rightmove"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/123869",
+      "title": "51 Acre Farm for Sale in Llangeitho, Ceredigion | LandSale"
+    },
+    {
+      "url": "https://www.rightmove.co.uk/properties/137314946",
+      "title": "4 bedroom smallholding for sale in Blaenpennal, Aberystwyth, SY23"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/107194",
+      "title": "16.95 Acres of Agricultural Land for Sale in Caersws, Powys | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/93557",
+      "title": "7 acres of Residential Land for Sale in Clunbury, Shropshire | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/115775",
+      "title": "85 Acre Farm for Sale in Llanfrynach, Powys | LandSale"
+    },
+    {
+      "url": "https://www.rightmove.co.uk/properties/136725536",
+      "title": "Land for sale in Llangynog, Oswestry, Powys, SY10"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/106104",
+      "title": "Residential Land for Sale in Wem Rural, Shropshire | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/117536",
+      "title": "4.2 Acre Cottage for Sale in Bitterley, Shropshire | LandSale"
+    },
+    {
+      "url": "https://www.rightmove.co.uk/properties/163355525",
+      "title": "Check out this 2 bedroom smallholding for sale on Rightmove"
+    },
+    {
+      "url": "https://www.onthemarket.com/details/13248759/",
+      "title": "Studio+ Properties With Land For Sale Within 1 Mile Of Sy7 | OnTheMarket"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/114190",
+      "title": "1.7 Acre House with Land for Sale in Llanwnda, Gwynedd | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/110232",
+      "title": "1 Acre House with Land for Sale in Llanwnda, Gwynedd | LandSale"
     }
   ],
   "searchReport": {
-    "resultsReturned": 215,
-    "candidateListings": 173,
+    "resultsReturned": 237,
+    "candidateListings": 182,
     "pagesChecked": 12,
     "pagesUnavailable": 36,
-    "matchingListings": 0,
-    "newProperties": 0,
-    "queued": 161,
+    "matchingListings": 1,
+    "newProperties": 1,
+    "queued": 170,
     "rejected": {
-      "not available for sale": 2,
-      "above budget": 6,
-      "outside search area or location missing": 1,
-      "too little land": 1,
-      "land missing or ambiguous": 2
+      "land missing or ambiguous": 4,
+      "above budget": 5,
+      "bedrooms missing or below minimum": 1,
+      "too little land": 1
     }
   }
 }
