@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T13:18:37.093Z",
-  "lastSearchAt": "2026-11-17T13:18:37.093Z",
-  "searchStatus": "Search completed: 218 results, 9 listing pages checked, 0 matches, 0 new houses. 259 awaiting a later check.",
+  "updatedAt": "2026-11-17T22:18:40.789Z",
+  "lastSearchAt": "2026-11-17T22:18:40.789Z",
+  "searchStatus": "Search completed: 236 results, 12 listing pages checked, 2 matches, 0 new houses. 254 awaiting a later check.",
   "properties": [
     {
       "id": "real-hafodty",
@@ -164,7 +164,7 @@
         }
       ],
       "photosSourceUrl": "https://www.onthemarket.com/details/19731924/",
-      "photosChecked": "2026-11-16T20:26:06.287Z",
+      "photosChecked": "2026-11-17T22:18:50.690Z",
       "postcode": "SY10 0DE",
       "address": "",
       "links": [
@@ -387,7 +387,7 @@
         }
       ],
       "photosSourceUrl": "https://www.onthemarket.com/details/17490284/",
-      "photosChecked": "2026-11-16T20:26:06.287Z",
+      "photosChecked": "2026-11-17T22:18:50.690Z",
       "postcode": "SY23 3ND",
       "address": "",
       "links": [
@@ -492,7 +492,7 @@
         }
       ],
       "photosSourceUrl": "https://www.onthemarket.com/details/20404516/",
-      "photosChecked": "2026-11-16T20:26:06.287Z",
+      "photosChecked": "2026-11-17T22:18:50.690Z",
       "postcode": "SY12 0ND",
       "address": "",
       "links": [
@@ -884,7 +884,7 @@
         }
       ],
       "photosSourceUrl": "https://www.landsale.co.uk/properties/147973",
-      "photosChecked": "2026-11-16T20:26:06.287Z",
+      "photosChecked": "2026-11-17T22:18:50.690Z",
       "postcode": "",
       "address": "",
       "links": [
@@ -932,11 +932,11 @@
         }
       ],
       "created": 1791755736213,
-      "observedAt": "2026-11-15T17:05:33.429Z",
+      "observedAt": "2026-11-17T22:18:40.789Z",
       "lat": 52.599357,
       "lon": -2.997815,
       "availability": "Advertised for sale — confirm with agent",
-      "checked": "2026-11-15",
+      "checked": "2026-11-17",
       "dataQuality": "listing-page",
       "priceQualifier": "Listing-page price — confirm",
       "access": "Not verified",
@@ -1082,7 +1082,7 @@
         }
       ],
       "photosSourceUrl": "https://www.landsale.co.uk/properties/152567",
-      "photosChecked": "2026-11-16T20:26:06.287Z"
+      "photosChecked": "2026-11-17T22:18:40.789Z"
     },
     {
       "id": "search-e0a57bc18254eaac",
@@ -1118,11 +1118,11 @@
         }
       ],
       "created": 1791755736213,
-      "observedAt": "2026-11-14T21:27:33.962Z",
+      "observedAt": "2026-11-17T22:18:40.789Z",
       "lat": 52.235783,
       "lon": -3.298339,
       "availability": "Advertised for sale — confirm with agent",
-      "checked": "2026-11-14",
+      "checked": "2026-11-17",
       "dataQuality": "listing-page",
       "priceQualifier": "Listing-page price — confirm",
       "access": "Not verified",
@@ -1288,7 +1288,7 @@
         }
       ],
       "photosSourceUrl": "https://www.landsale.co.uk/properties/135327",
-      "photosChecked": "2026-11-17T03:49:30.834Z"
+      "photosChecked": "2026-11-17T22:18:40.789Z"
     },
     {
       "id": "search-445ae15a13de8a07",
@@ -1576,7 +1576,7 @@
         }
       ],
       "photosSourceUrl": "https://www.landsale.co.uk/properties/149835",
-      "photosChecked": "2026-11-16T20:26:06.287Z"
+      "photosChecked": "2026-11-17T22:18:50.690Z"
     },
     {
       "id": "search-ef02da6d2950294d",
@@ -2285,7 +2285,7 @@
         }
       ],
       "photosSourceUrl": "https://www.landsale.co.uk/properties/114472",
-      "photosChecked": "2026-11-16T20:26:06.287Z"
+      "photosChecked": "2026-11-17T22:18:50.690Z"
     },
     {
       "id": "search-174aec06a1880517",
@@ -2531,18 +2531,18 @@
     }
   ],
   "searchOffsets": {
-    "site:rightmove.co.uk Shropshire acres \"for sale\"": 4,
-    "site:rightmove.co.uk Powys acres \"for sale\"": 1,
-    "site:rightmove.co.uk Ceredigion acres \"for sale\"": 2,
-    "site:rightmove.co.uk Mid Wales acres \"for sale\"": 0,
-    "site:onthemarket.com Shropshire acres \"for sale\"": 5,
-    "site:onthemarket.com Powys acres \"for sale\"": 0,
-    "site:onthemarket.com Ceredigion acres \"for sale\"": 1,
-    "site:onthemarket.com Mid Wales acres \"for sale\"": 4,
-    "site:landsale.co.uk Shropshire acres \"for sale\"": 5,
-    "site:landsale.co.uk Powys acres \"for sale\"": 5,
-    "site:landsale.co.uk Ceredigion acres \"for sale\"": 5,
-    "site:landsale.co.uk Mid Wales acres \"for sale\"": 5,
+    "site:rightmove.co.uk Shropshire acres \"for sale\"": 0,
+    "site:rightmove.co.uk Powys acres \"for sale\"": 2,
+    "site:rightmove.co.uk Ceredigion acres \"for sale\"": 3,
+    "site:rightmove.co.uk Mid Wales acres \"for sale\"": 1,
+    "site:onthemarket.com Shropshire acres \"for sale\"": 6,
+    "site:onthemarket.com Powys acres \"for sale\"": 1,
+    "site:onthemarket.com Ceredigion acres \"for sale\"": 2,
+    "site:onthemarket.com Mid Wales acres \"for sale\"": 0,
+    "site:landsale.co.uk Shropshire acres \"for sale\"": 6,
+    "site:landsale.co.uk Powys acres \"for sale\"": 6,
+    "site:landsale.co.uk Ceredigion acres \"for sale\"": 6,
+    "site:landsale.co.uk Mid Wales acres \"for sale\"": 6,
     "site:rightmove.co.uk Shropshire land detached \"for sale\"": 1,
     "site:rightmove.co.uk Powys land detached \"for sale\"": 3,
     "site:rightmove.co.uk Ceredigion land detached \"for sale\"": 2,
@@ -2568,200 +2568,8 @@
     "site:landsale.co.uk Ceredigion smallholding \"for sale\"": 5,
     "site:landsale.co.uk Mid Wales smallholding \"for sale\"": 5
   },
-  "searchCycle": 141,
+  "searchCycle": 142,
   "discoveryQueue": [
-    {
-      "url": "https://www.onthemarket.com/details/13356678/",
-      "title": "Nash, Ludlow, Shropshire, SY8 3AY 5 bed farm house - £1,745,000"
-    },
-    {
-      "url": "https://www.rightmove.co.uk/properties/173398421",
-      "title": "3 bedroom smallholding for sale in Cilcennin, Lampeter, SA48"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/95610",
-      "title": "1 acre Country Home for Sale in Wem Rural, Shropshire | LandSale"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/134573",
-      "title": "2 Acre House with Land for Sale in Rushbury, Shropshire | LandSale"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/117272",
-      "title": "4 Acre Cottage for Sale in Stoke St. Milborough, Shropshire | LandSale"
-    },
-    {
-      "url": "https://www.onthemarket.com/details/13356675/",
-      "title": "Nash, Ludlow, Shropshire, SY8 3AY Land - £475,000"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/117537",
-      "title": "27.21 Acre Farm for Sale in Llanfihangel, Powys | LandSale"
-    },
-    {
-      "url": "https://www.rightmove.co.uk/properties/149263283",
-      "title": "Check out this 5 bedroom smallholding for sale on Rightmove"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/113772",
-      "title": "3 Acre Country Home for Sale in Caersws, Powys | LandSale"
-    },
-    {
-      "url": "https://www.rightmove.co.uk/properties/162590921",
-      "title": "Land for sale in Brecon, Powys, LD3"
-    },
-    {
-      "url": "https://www.rightmove.co.uk/properties/150515246",
-      "title": "Farm land for sale in Harton, Nr Church Stretton, Shropshire, SY6"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/84079",
-      "title": "36 Acre Smallholding for Sale in Llanfihangel Ystrad, Ceredigion | LandSale"
-    },
-    {
-      "url": "https://www.rightmove.co.uk/properties/124770470",
-      "title": "Land for sale in Llandre, Bow Street, Aberystwyth, SY24"
-    },
-    {
-      "url": "https://www.rightmove.co.uk/properties/157452974",
-      "title": "6 bedroom smallholding for sale in Maesycrugiau, Pencader, SA39"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/117023",
-      "title": "1 Acre Cottage for Sale in Llangurig, Powys | LandSale"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/119241",
-      "title": "14 Acre Country Home for Sale in Overton, Wrexham | LandSale"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/118209",
-      "title": "1 Acre House with Land for Sale in Donnington and Muxton, Telford and Wrekin | LandSale"
-    },
-    {
-      "url": "https://www.rightmove.co.uk/properties/171884639",
-      "title": "7 bedroom detached house for sale in Cardigan, Ceredigion, SA43"
-    },
-    {
-      "url": "https://www.onthemarket.com/details/15323954/",
-      "title": "Caemorgan Road, Cardigan, Ceredigion... 5 bed detached bungalow - £375,000"
-    },
-    {
-      "url": "https://www.onthemarket.com/details/17665354/",
-      "title": "Llangrannog, Ceredigion, SA44 Farm land - £20,000"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/152567",
-      "title": "3 Acre House with Land for Sale in Worthen with Shelve, Shropshire | LandSale"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/111032",
-      "title": "8.2 Acre Country Home for Sale in Pontesbury, Shropshire | LandSale"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/156401",
-      "title": "3.9 Acre House with Land for Sale in Llanafanfawr, Powys | LandSale"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/135327",
-      "title": "2.92 Acre Cottage for Sale in Penybont, Powys | LandSale"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/145346",
-      "title": "22.5 Acre House with Land for Sale in Llanfyllin, Powys | LandSale"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/97919",
-      "title": "2.5 Acres of Redevelopment Land for Sale in Dinas Powys, Vale of Glamorgan | LandSale"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/117022",
-      "title": "1.5 Acre House with Land for Sale in Cadfarch, Powys | LandSale"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/142043",
-      "title": "4 Acre Country Home for Sale in Berriew, Powys | LandSale"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/94121",
-      "title": "1.3 Acre Cottage for Sale in Dinas Powys, Vale of Glamorgan | LandSale"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/113150",
-      "title": "2.5 Acre Cottage for Sale in Llansantffraid, Powys | LandSale"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/155911",
-      "title": "162.83 Acre Farm for Sale in Bettws-y-Crwyn, Shropshire | LandSale"
-    },
-    {
-      "url": "https://www.rightmove.co.uk/properties/161965586",
-      "title": "3 bedroom house for sale in Maesymeillion, Llandysul, SA44"
-    },
-    {
-      "url": "https://www.rightmove.co.uk/properties/70501953",
-      "title": "Check out this Plot for sale on Rightmove"
-    },
-    {
-      "url": "https://www.rightmove.co.uk/properties/167530565",
-      "title": "3 bedroom detached house for sale in Celaeron Equestrian Centre & Caravan Site, Neuaddlwyn, Ceredigon., SA48"
-    },
-    {
-      "url": "https://www.rightmove.co.uk/properties/160086578",
-      "title": "5 bedroom house for sale in Ffosyffin, Aberaeron, SA46"
-    },
-    {
-      "url": "https://www.rightmove.co.uk/properties/88760869",
-      "title": "Commercial property for sale in Cambrian Street, Aberystwyth, SY23"
-    },
-    {
-      "url": "https://www.rightmove.co.uk/properties/87493776",
-      "title": "Farm land for sale in Trefeglwys, Caersws, Powys, SY17"
-    },
-    {
-      "url": "https://www.rightmove.co.uk/properties/169664171",
-      "title": "3 bedroom semi-detached house for sale in Llanon, Ceredigion, SY23"
-    },
-    {
-      "url": "https://www.rightmove.co.uk/properties/160864280",
-      "title": "Land for sale in Taliesin, Machynlleth, Ceredigion, SY20"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/92537",
-      "title": "6.8 Acre Smallholding for Sale in Llandysul, Ceredigion | LandSale"
-    },
-    {
-      "url": "https://www.rightmove.co.uk/properties/170680475",
-      "title": "Check out this 4 bedroom smallholding for sale on Rightmove"
-    },
-    {
-      "url": "https://www.rightmove.co.uk/properties/83597613",
-      "title": "2 bedroom smallholding for sale in Neuaddlwyd, Ciliau Aeron, Aberaeron, SA48"
-    },
-    {
-      "url": "https://www.rightmove.co.uk/properties/140504324",
-      "title": "Property for sale in Whittington, Oswestry, Shropshire, SY11"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/123038",
-      "title": "67.5 Acre Farm for Sale in Lledrod, Ceredigion | LandSale"
-    },
-    {
-      "url": "https://www.rightmove.co.uk/properties/157816769",
-      "title": "4 bedroom smallholding for sale in Cwrtnewydd, Llanybydder, SA40"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/117344",
-      "title": "0.33 Acres of Residential Land for Sale in Newcastle on Clun, Shropshire | LandSale"
-    },
-    {
-      "url": "https://www.rightmove.co.uk/properties/94885065",
-      "title": "Barn for sale in Cil Haul, Talerddig, Llanbrynmair, Powys, SY19"
-    },
-    {
-      "url": "https://www.landsale.co.uk/properties/111996",
-      "title": "1.25 Acre Country Home for Sale in Llandyssil, Powys | LandSale"
-    },
     {
       "url": "https://www.landsale.co.uk/properties/119167",
       "title": "2.3 Acres of Agricultural Land for Sale in Henfynyw, Ceredigion | LandSale"
@@ -3605,20 +3413,191 @@
     {
       "url": "https://www.landsale.co.uk/properties/92934",
       "title": "1.24 Acres of Residential Land for Sale in Dinas Powys, Vale of Glamorgan | LandSale"
+    },
+    {
+      "url": "https://www.rightmove.co.uk/properties/87968802",
+      "title": "9 bedroom country house for sale in Ludstone Hall, Ludstone, Claverley, Shropshire, WV5"
+    },
+    {
+      "url": "https://www.rightmove.co.uk/properties/173142947",
+      "title": "68 bedroom country house for sale in The Tedsmore Hall Estate, Tedsmore, West Felton, Oswestry, Shropshire, SY11 4HD, SY11"
+    },
+    {
+      "url": "https://www.onthemarket.com/details/17583557/",
+      "title": "Builth Wells, Powys Land for sale - £115,000"
+    },
+    {
+      "url": "https://www.onthemarket.com/details/17540681/",
+      "title": "Land At Dolhafren, Caersws, Powys, SY17 Land for sale - £315,000"
+    },
+    {
+      "url": "https://www.onthemarket.com/details/17625091/",
+      "title": "Pentre, Churchstoke, Montgomery, Powys 6 bed detached house - £1,000,000"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/98792",
+      "title": "2.42 acres of Residential Land for Sale in Astley, Shropshire | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/147760",
+      "title": "35.88 Acres of Agricultural Land for Sale in Llanfair Clydogau, Ceredigion | LandSale"
+    },
+    {
+      "url": "https://www.onthemarket.com/details/13356678/",
+      "title": "Nash, Ludlow, Shropshire, SY8 3AY 5 bed farm house - £1,745,000"
+    },
+    {
+      "url": "https://www.rightmove.co.uk/properties/173398421",
+      "title": "3 bedroom smallholding for sale in Cilcennin, Lampeter, SA48"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/117272",
+      "title": "4 Acre Cottage for Sale in Stoke St. Milborough, Shropshire | LandSale"
+    },
+    {
+      "url": "https://www.onthemarket.com/details/13356675/",
+      "title": "Nash, Ludlow, Shropshire, SY8 3AY Land - £475,000"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/95610",
+      "title": "1 acre Country Home for Sale in Wem Rural, Shropshire | LandSale"
+    },
+    {
+      "url": "https://www.rightmove.co.uk/properties/149263283",
+      "title": "Check out this 5 bedroom smallholding for sale on Rightmove"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/134573",
+      "title": "2 Acre House with Land for Sale in Rushbury, Shropshire | LandSale"
+    },
+    {
+      "url": "https://www.rightmove.co.uk/properties/162590921",
+      "title": "Land for sale in Brecon, Powys, LD3"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/117537",
+      "title": "27.21 Acre Farm for Sale in Llanfihangel, Powys | LandSale"
+    },
+    {
+      "url": "https://www.rightmove.co.uk/properties/150515246",
+      "title": "Farm land for sale in Harton, Nr Church Stretton, Shropshire, SY6"
+    },
+    {
+      "url": "https://www.rightmove.co.uk/properties/124770470",
+      "title": "Land for sale in Llandre, Bow Street, Aberystwyth, SY24"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/113772",
+      "title": "3 Acre Country Home for Sale in Caersws, Powys | LandSale"
+    },
+    {
+      "url": "https://www.rightmove.co.uk/properties/157452974",
+      "title": "6 bedroom smallholding for sale in Maesycrugiau, Pencader, SA39"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/84079",
+      "title": "36 Acre Smallholding for Sale in Llanfihangel Ystrad, Ceredigion | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/117023",
+      "title": "1 Acre Cottage for Sale in Llangurig, Powys | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/119241",
+      "title": "14 Acre Country Home for Sale in Overton, Wrexham | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/118209",
+      "title": "1 Acre House with Land for Sale in Donnington and Muxton, Telford and Wrekin | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/111032",
+      "title": "8.2 Acre Country Home for Sale in Pontesbury, Shropshire | LandSale"
+    },
+    {
+      "url": "https://www.rightmove.co.uk/properties/161965586",
+      "title": "3 bedroom house for sale in Maesymeillion, Llandysul, SA44"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/113150",
+      "title": "2.5 Acre Cottage for Sale in Llansantffraid, Powys | LandSale"
+    },
+    {
+      "url": "https://www.rightmove.co.uk/properties/70501953",
+      "title": "Check out this Plot for sale on Rightmove"
+    },
+    {
+      "url": "https://www.rightmove.co.uk/properties/167530565",
+      "title": "3 bedroom detached house for sale in Celaeron Equestrian Centre & Caravan Site, Neuaddlwyn, Ceredigon., SA48"
+    },
+    {
+      "url": "https://www.rightmove.co.uk/properties/160086578",
+      "title": "5 bedroom house for sale in Ffosyffin, Aberaeron, SA46"
+    },
+    {
+      "url": "https://www.rightmove.co.uk/properties/88760869",
+      "title": "Commercial property for sale in Cambrian Street, Aberystwyth, SY23"
+    },
+    {
+      "url": "https://www.rightmove.co.uk/properties/87493776",
+      "title": "Farm land for sale in Trefeglwys, Caersws, Powys, SY17"
+    },
+    {
+      "url": "https://www.rightmove.co.uk/properties/169664171",
+      "title": "3 bedroom semi-detached house for sale in Llanon, Ceredigion, SY23"
+    },
+    {
+      "url": "https://www.rightmove.co.uk/properties/160864280",
+      "title": "Land for sale in Taliesin, Machynlleth, Ceredigion, SY20"
+    },
+    {
+      "url": "https://www.rightmove.co.uk/properties/170680475",
+      "title": "Check out this 4 bedroom smallholding for sale on Rightmove"
+    },
+    {
+      "url": "https://www.rightmove.co.uk/properties/83597613",
+      "title": "2 bedroom smallholding for sale in Neuaddlwyd, Ciliau Aeron, Aberaeron, SA48"
+    },
+    {
+      "url": "https://www.rightmove.co.uk/properties/140504324",
+      "title": "Property for sale in Whittington, Oswestry, Shropshire, SY11"
+    },
+    {
+      "url": "https://www.rightmove.co.uk/properties/157816769",
+      "title": "4 bedroom smallholding for sale in Cwrtnewydd, Llanybydder, SA40"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/123038",
+      "title": "67.5 Acre Farm for Sale in Lledrod, Ceredigion | LandSale"
+    },
+    {
+      "url": "https://www.rightmove.co.uk/properties/94885065",
+      "title": "Barn for sale in Cil Haul, Talerddig, Llanbrynmair, Powys, SY19"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/117344",
+      "title": "0.33 Acres of Residential Land for Sale in Newcastle on Clun, Shropshire | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/92537",
+      "title": "6.8 Acre Smallholding for Sale in Llandysul, Ceredigion | LandSale"
+    },
+    {
+      "url": "https://www.landsale.co.uk/properties/111996",
+      "title": "1.25 Acre Country Home for Sale in Llandyssil, Powys | LandSale"
     }
   ],
   "searchReport": {
-    "resultsReturned": 218,
-    "candidateListings": 268,
-    "pagesChecked": 9,
-    "pagesUnavailable": 39,
-    "matchingListings": 0,
+    "resultsReturned": 236,
+    "candidateListings": 266,
+    "pagesChecked": 12,
+    "pagesUnavailable": 36,
+    "matchingListings": 2,
     "newProperties": 0,
-    "queued": 259,
+    "queued": 254,
     "rejected": {
-      "land missing or ambiguous": 2,
-      "above budget": 5,
-      "bedrooms missing or below minimum": 1,
+      "above budget": 8,
+      "land missing or ambiguous": 1,
       "too little land": 1
     }
   }
